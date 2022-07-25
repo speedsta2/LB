@@ -51,17 +51,7 @@ shared.provideStats = true -- if you wanna provide usage stats
 if shared.provideStats then 
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/speedsta2/LB/main/bigbrain.lua'))() 
 end
-
-
-local function kickClown() -- yes 
-	game.Players.LocalPlayer:Kick("CLOWN DETECTED\n\nHow 🤔 💯 😮 🤷 🥱 😨 🤔 🐼 🤷 fucking 👏 👏 💰 💯 💰 🍆 😈 💪🏻 👿🎮 stupid 🚫 🚫🤔 👑💩 💢 🚶‍♀️🚶😤 💩 🚫 🤡 👑💩 can 👁️ 👁️ 🍞 🥫 🦎 👄 😎 👍 🏃🏽‍♂️🏃🏽‍♂️🏃🏽‍♂️ you 😂👉 👈🏼 👈 👉👲 🤬 😀😊 👈 🏻🏿 💓 get? 🍒 🔥 2️⃣0️⃣ 🔳 🔳🎉 🔟 🉐🉐🉐🍊🉐 5️⃣ 🎉😂 🔳 🍆 🔳 🕔 🔟 0️⃣ 💦2️⃣💦1️⃣ 💦2️⃣💦1️⃣ ❌ ❕ 0⃣ 💦2️⃣💦1️⃣ 0⃣ 0⃣ ❕ 💦2️⃣💦1️⃣ ❌ ❌ ❌ ❌ 0⃣ 0⃣ ❕ 💦2️⃣💦1️⃣ ❌ ❌ ❕ 💦2️⃣💦1️⃣ ❌ ❌ ❌ ❌ ❕ 3️⃣ 😗 😘🤔 😗 ⭕ 3⃣ 😩 🆕 😧 3️⃣ 😘🤔 ⭕ ⭕ 👏🎆 🆕 3️⃣ 3⃣ 👏🎆 🆕 ⭕ ⭕ ⭕ 😩 retard") -- kick yo ass!
-	task.wait(0.3)
-	while true do -- insane 
-		while true do end 
-		while true do end 
-		while true do end 
-	end
-end
+ 
 
 if typeof(shared.sayDelay) ~= "number" then -- if you're a retard
 	kickClown()
